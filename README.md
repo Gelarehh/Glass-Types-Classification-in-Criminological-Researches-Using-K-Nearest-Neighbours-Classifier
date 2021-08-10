@@ -12,7 +12,7 @@ The KNN method is applicable to many problems because it is effective, non-param
 
 
 #Class Attribute
-Types of glass
+>Types of glass
 
 <ol>
 <li>building_windows_float_processed</li>
