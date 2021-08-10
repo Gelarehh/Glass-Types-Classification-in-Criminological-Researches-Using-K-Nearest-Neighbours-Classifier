@@ -9,3 +9,18 @@ The KNN method is applicable to many problems because it is effective, non-param
 <p align="center">
   <img width="350" height="310" src="https://user-images.githubusercontent.com/66460485/128825219-0095b65c-a17e-4960-b327-604c8bf737e5.png">
 </p>
+
+
+#Class Attribute
+Types of glass
+
+<ol>
+<li>building_windows_float_processed</li>
+<li>building_windows_non_float_processed</li>
+<li>vehicle_windows_float_processed</li>
+<li>vehicle_windows_non_float_processed</li>
+<li>containers</li>
+<li>tableware</li>
+<li>headlamps</li>
+<li>vehicle_windows_float_processed</li>
+</ol>
