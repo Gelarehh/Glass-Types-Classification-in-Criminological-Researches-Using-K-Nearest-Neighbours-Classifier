@@ -10,6 +10,8 @@ The KNN method is applicable to many problems because it is effective, non-param
   <img width="350" height="310" src="https://user-images.githubusercontent.com/66460485/128825219-0095b65c-a17e-4960-b327-604c8bf737e5.png">
 </p>
 
+#Dataset
+
 The dataset used for the training and test simulations is a classification study of glass types performed with criminological research. In the event of a crime, the left glass can be used as evidence if correctly detected. 20% of the dataset is saved for testing, and the evaluation metric is the jaccard_score function.
 > Class Attributes (Types of glass)
 
