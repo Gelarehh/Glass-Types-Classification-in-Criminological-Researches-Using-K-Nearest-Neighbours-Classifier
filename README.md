@@ -1,4 +1,4 @@
-## K-Nearest-Neighbours-Classifier
+## K-Nearest Neighbours Classifier
 
 K Nearest Neighbors (KNN) is one of the simplest machine learning algorithms. In this algorithm, a sample is categorized by a majority vote of its neighbors and is determined in the most general class among k close neighbors. K is a positive value and is generally small. If k = 1, the sample is easily determined in its nearest neighbor class. For k, being an odd number is useful because it prevents equal votes.
 
